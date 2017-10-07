@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IPAD Ministério Restauração</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_radio">RadioActivity</string>
+    <string name="menu_radio">Rádio ao vivo</string>
+    <string name="sobre_nos_menu">Sobre Nós</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radio_url">Radio Url</string>
+    <string name="botao_tocar">Tocar</string>
+    <string name="botao_parar">Parar</string>
+    <string name="logo_menu" />
+    <string name="text_logo">IPAD Ministério Restauração</string>
+    <string name="text_logo2">android.studio@android.com</string>
+    <string name="botao_play">Play</string>
+</resources>

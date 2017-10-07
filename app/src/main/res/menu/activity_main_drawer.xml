@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_radio"
+            android:icon="@drawable/ic_radio"
+            android:title="@string/menu_radio" />
+        <item
+            android:id="@+id/nav_sobre_nos"
+            android:icon="@drawable/sobre_nos"
+            android:title="@string/sobre_nos_menu" />
+        <item
+            android:id="@+id/nav_encontre_uma_igreja"
+            android:icon="@drawable/ic_public"
+            android:title="Encontre uma Igreja" />
+        <item
+            android:id="@+id/nav_canal_youtube"
+            android:icon="@drawable/ic_subscriptions"
+            android:title="Canal no Youtube" />
+    </group>
+
+    <item android:title="Contato">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartilhe Nosso Aplicativo" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_email"
+                android:title="Envie-nos um E-mail" />
+        </menu>
+    </item>
+
+</menu>
